@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class alimentoScript : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public int valorAlimenticio;
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
